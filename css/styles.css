@@ -1,7 +1,10 @@
 body {
-    background-color: burlywood;
+    background-color: #735F32;
 }
 h1{color: #66BFBF}
+h3 {
+    color: #66BFBF
+}
 
 hr {
     border-style: none;
