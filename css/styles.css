@@ -16,3 +16,9 @@ hr {
     border-width: 5px;
     width: 7%;
 }
+input {
+    background-color: #443C68;
+}
+textarea {
+    background-color: #443C68;
+}
